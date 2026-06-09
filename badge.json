@@ -775,7 +775,7 @@
       "id": "ge-av1",
       "name": "AV1",
       "groupId": "ge",
-      "isEnabled": true,
+      "isEnabled": false,
       "pattern": "(?i)(?<![^\\s\\[(_\\-.,])(av1)(?=[\\s\\)\\]_.\\-,]|$)",
       "imageURL": "",
       "tagColor": "#000000",
