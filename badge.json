@@ -155,7 +155,7 @@
       "groupId": "gr",
       "isEnabled": true,
       "pattern": "(?i)^(?=.*(?:^|[\\s\\[(_.,\\-])(?:1080[pi]?|fhd|1920x1080)(?:[\\s\\)\\]_.,\\-0-9]|$))(?!.*(?:^|[\\s\\[(_.,\\-])(?:4k|2160[pi]?|uhd|3840x2160)(?:[\\s\\)\\]_.,\\-0-9]|$))",
-      "imageURL": "https://raw.githubusercontent.com/danielsdian/ColorfulAndConcise/main/images/FHD.png",
+      "imageURL": "https://raw.githubusercontent.com/LaughingStorm-cloud/ColorfulAndConcise/refs/heads/main/images/1080p.png",
       "tagColor": "#000000",
       "borderColor": "#43A047",
       "textColor": "#FFFFFF",
