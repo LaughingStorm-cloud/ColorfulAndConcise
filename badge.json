@@ -168,7 +168,7 @@
       "groupId": "gr",
       "isEnabled": true,
       "pattern": "(?i)^(?=.*(?:^|[\\s\\[(_.,\\-])(?:720[pi]?|hd|1280x720)(?:[\\s\\)\\]_.,\\-0-9]|$))(?!.*(?:^|[\\s\\[(_.,\\-])(?:1080[pi]?|fhd|1920x1080|4k|2160[pi]?|uhd|3840x2160)(?:[\\s\\)\\]_.,\\-0-9]|$))",
-      "imageURL": "https://github.com/LaughingStorm-cloud/ColorfulAndConcise/blob/main/images/720p.png",
+      "imageURL": "https://raw.githubusercontent.com/LaughingStorm-cloud/ColorfulAndConcise/refs/heads/main/images/720p.png",
       "tagColor": "#000000",
       "borderColor": "#FB8C00",
       "textColor": "#FFFFFF",
